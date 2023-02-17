@@ -1,5 +1,7 @@
 # qb-menu Css Edit
 
+[![MasterHead](https://cdn.discordapp.com/attachments/1009569570782195732/1076111898468171827/rainbow-loading-bar.gif)](https://google.com/)
+
 --[[
 EXAMPLE MENU
 --]]
